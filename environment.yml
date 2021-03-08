@@ -1,0 +1,22 @@
+name: ForDist
+channels:
+  - conda-forge
+dependencies:
+  # Required for full project functionality (dont remove)
+  - pytest
+  - python = 3.8
+  - jupyter
+  - jupyterlab
+  - xarray
+  - dask
+  - netCDF4 
+  - bottleneck 
+  - numpy
+  - cartopy
+  - scipy
+  - pandas
+  - matplotlib
+  - pip
+  - ipykernel
+  - pip:
+    - pyleoclim
