@@ -1,2 +1,2 @@
 # ForamDistribution
-Visualise core-top Foraminifera census data and compare to oceanographic data.
+Jupyter Notebooks to visualise core-top Foraminifera census data and compare to oceanographic data.
