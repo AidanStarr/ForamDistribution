@@ -1,6 +1,8 @@
 # ForamDistribution
 Jupyter Notebooks to visualise core-top Foraminifera census data and compare to oceanographic data.
 
+<img src='G_trunc_oceanographic_plots.png'>
+
 ----
 ## Create conda environment
 To replicate the conda envionrment I used, ```cd``` into this folder and run ```conda env create -f environment.yml``` in terminal
