@@ -2,6 +2,7 @@
 Jupyter Notebooks to visualise core-top Foraminifera census data and compare to oceanographic data.
 
 <img src='G_trunc_oceanographic_plots.png'>
+<img src='G_trunc_sin_O2_400.png'>
 
 ----
 ## Create conda environment
